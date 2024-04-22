@@ -1,0 +1,75 @@
+.main-page{
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+
+::placeholder {
+  height: 45px;
+  font-size: 14px;
+  padding: 15px 0px;
+  outline: none;
+  color: black;
+}
+label {
+  justify-content: center;
+}
+.search-bar {
+  outline: none;
+  border-radius: 10px;
+  max-width: 700px;
+  border: 1px solid #f0f0f0;
+  margin: 38px 0px;
+}
+#search-bar {
+  height: 58px;
+  font-size: 20px;
+  outline: none;
+  border: 1px;
+  border-radius: 10px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  width: 608px;
+}
+input{
+  padding-inline-start: 25px;
+}
+.search-btn {
+  height: 58px;
+  border-radius: 6px;
+  background-color: #2ec4b6;
+  color: #f0f0f0;
+  position: absolute;
+  display: inline-block;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.repo-card {
+  padding: 25px;
+  border: 2px solid #f0f0f0;
+  border-radius: 15px;
+  max-width: 400px;
+  margin: 50px;
+  box-shadow: #f0f0f0;
+}
+.card-name, p{
+  padding: 0px;
+  margin: 0px;
+  opacity: 75%;
+}
+.repo-btn {
+  margin-top: 60px;
+  display: flex;
+  border-radius: 6px;
+  background-color: #2ec4b6;
+  color: #f0f0f0;
+}
+a{
+  color: #f0f0f0;
+}
+.repo-des{
+  font-size: 19px;
+  margin-top: 10px;
+  padding-top: 10px;
+
+}

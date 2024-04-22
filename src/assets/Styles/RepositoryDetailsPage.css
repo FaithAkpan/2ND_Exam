@@ -1,0 +1,55 @@
+.home-page-btn {
+    margin: 40px 275px;
+    display: flex;
+    border-radius: 6px;
+    background-color: #2ec4b6;
+    padding: 25px;
+    font-weight: 700;
+    width: 88px;
+  
+  }
+
+  .repo-dets-page{
+    max-width: 800px;
+    margin: 0px auto;
+  }
+  h1{
+    font-size: 40px;
+    padding-left: 80px;
+    margin-left: 100px;
+    opacity: 75%;
+  }
+  .repo-table{
+    
+    margin: 0 auto;
+    border: 1px solid #2ec4b6;
+    width: 100%;
+  }
+  .table-header{
+    text-align: center;
+    line-height: inherit;
+    tab-size: 5;
+    display: table-header-group;
+    font-size:30px;
+    background-color: #2ec4b6;
+  }
+  .thead-th{
+    padding: 5px;
+    color: #f0f0f0;
+  }
+td{
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 10px;
+    color: black;
+    opacity: 75%;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+footer{
+    
+    margin-left: 80px;
+}

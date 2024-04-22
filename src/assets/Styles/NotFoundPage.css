@@ -1,0 +1,25 @@
+.not-found {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.home-btn {
+  margin: 40px 275px;
+  display: flex;
+  border-radius: 6px;
+  background-color: #2ec4b6;
+  padding: 25px;
+  font-weight: 700;
+  width: 111px;
+
+}
+span {
+  font-size: 400px;
+  font-style: bold;
+  padding-left: 40px;
+}
+.not-found-msg {
+  font-size: 50px;
+  margin: 0px;
+  padding: 0px 210px;
+}

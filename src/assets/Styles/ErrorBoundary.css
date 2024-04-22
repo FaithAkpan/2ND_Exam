@@ -1,0 +1,26 @@
+.error {
+  max-width: 800px;
+  margin: 0px auto;
+}
+
+.return-home-btn {
+  margin: 40px 275px;
+  display: flex;
+  border-radius: 6px;
+  background-color: #2ec4b6;
+  color: #f0f0f0;
+  padding: 25px;
+  width: 111px;
+  font-weight: 700;
+}
+.error-span {
+  font-size: 175px;
+  font-style: bold;
+  padding-top: 60px;
+}
+.err-msg{
+    font-size: 32px;
+    margin: 0px;
+    padding: 0px 165px;
+  }
+  
